@@ -22,7 +22,7 @@
 
 ## 🚀 Live Demo
 
-*(Add your deployed link here)*
+https://cinepickai.netlify.app/
 
 ## 📦 Getting Started
 
